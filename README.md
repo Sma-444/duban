@@ -4,7 +4,8 @@
 > 用 **seekdb** 做资料检索、用 **PowerContext** 做长期记忆，解决「论文与笔记散落在各处、
 > 读完就忘、下次还得从头找」这个真实痛点。
 
-- 项目网站：<https://sma-444.github.io/duban/>（Qoder Sites 发布后替换为正式地址）
+- 项目网站：<https://duban-naubk8w0zwr.qoder.website>（Qoder Sites 发布，公开可访问）
+- 镜像站点：<https://sma-444.github.io/duban/>（GitHub Pages，内容相同）
 - 代码仓库：<https://github.com/Sma-444/duban>
 - 运行说明：[`docs/运行说明.md`](docs/运行说明.md)
 
